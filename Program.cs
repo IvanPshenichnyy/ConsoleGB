@@ -39,8 +39,8 @@ namespace ConsoleGB
             //в) *Сделать задание б с использованием собственных методов(например, Print(string ms, int x, int y).
             PrintProfile();
 
-            //6.
-
+            //6.*Создать класс с методами, которые могут пригодиться в вашей учебе (Print, Pause).
+            collorUserMessege("Выводит цветное сообщение в консоль");
         }
         #region first task
         static void questionnaire()
