@@ -1,0 +1,7 @@
+D:\Visual Studio Project\HelloWorld\Console GB\ConsoleGB\bin\Debug\ConsoleGB.exe.config
+D:\Visual Studio Project\HelloWorld\Console GB\ConsoleGB\bin\Debug\ConsoleGB.exe
+D:\Visual Studio Project\HelloWorld\Console GB\ConsoleGB\bin\Debug\ConsoleGB.pdb
+D:\Visual Studio Project\HelloWorld\Console GB\ConsoleGB\obj\Debug\ConsoleGB.csproj.AssemblyReference.cache
+D:\Visual Studio Project\HelloWorld\Console GB\ConsoleGB\obj\Debug\ConsoleGB.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\HelloWorld\Console GB\ConsoleGB\obj\Debug\ConsoleGB.exe
+D:\Visual Studio Project\HelloWorld\Console GB\ConsoleGB\obj\Debug\ConsoleGB.pdb
